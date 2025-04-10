@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.096756mm"
+   height="108.1563mm"
+   viewBox="0 0 74.096756 108.1563"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="74.096756"
+       height="108.1563"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.3938124,-124.07284)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 76.416959,172.77533 c -3.30833,0.0106 -3.05149,4.68808 -3.05149,4.68808 v 0.2155 0.21497 c 0,5.80488 -1.72784,11.18924 -4.69325,15.6776 l 3.63492,5.05188 c 4.41915,-5.91121 7.07433,-13.22081 7.16132,-21.15995 0,0 0.45995,-4.69931 -3.0515,-4.68808 z"
+       id="path9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.515559,172.77533 c -3.4210897,-0.0104 -3.1129897,4.68808 -3.1129897,4.68808 0.20437,18.65146 14.5444297,33.86223 32.7737097,35.5105 v 11.84321 h -8.40724 c -1.77614,0 -3.20652,1.42984 -3.20652,3.206 0,1.77615 1.43038,3.20601 3.20652,3.20601 h 22.92367 c 1.77614,0 3.206,-1.42986 3.206,-3.20601 0,-1.77616 -1.42986,-3.206 -3.206,-3.206 h -8.25325 v -11.82357 c 6.23587,-0.51949 12.02135,-2.62851 16.95401,-5.91747 l -3.56309,-4.95164 c -4.32164,2.6507 -9.41251,4.17908 -14.87455,4.17908 h -2.91817 c -15.73884,0 -28.40912,-12.67064 -28.40912,-28.40964 v -0.21497 -0.2155 c 0,0 0.22916,-4.67788 -3.11298,-4.68808 z"
+       id="path8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.953;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.394539,147.31384 c -0.003,0.14765 -0.0222,0.29091 -0.0222,0.43925 v 28.8525 c 0,12.85478 10.34906,23.20375 23.20375,23.20375 4.45611,0 8.59619,-1.26564 12.12329,-3.42615 z"
+       id="path7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.953;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.576069,124.54933 c -7.41006,0 -13.97297,3.45041 -18.21543,8.82582 l 38.80591,53.93418 c 1.66105,-3.20115 2.61276,-6.83477 2.61276,-10.70374 v -28.8525 c 0,-12.85478 -10.34854,-23.20376 -23.20324,-23.20376 z"
+       id="rect1-7" />
+    <rect
+       style="fill:#c73838;fill-opacity:1;stroke:none;stroke-width:1.54048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="99.436935"
+       height="9.1759167"
+       x="114.34989"
+       y="58.711975"
+       ry="4.5879583"
+       transform="matrix(0.58407357,0.81170072,-0.81137742,0.58452261,0,0)"
+       inkscape:export-filename="micOff_Icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
