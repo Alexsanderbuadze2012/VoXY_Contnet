@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102.54346mm"
+   height="61.364731mm"
+   viewBox="0 0 102.54346 61.364731"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="102.54346"
+       height="61.364731"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.2649469,-200.87559)">
+    <path
+       id="rect9-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30261;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.804687,200.87559 c -3.731692,0 -7.190545,1.11497 -10.07432,3.02359 l 82.931372,47.44879 10.146671,2.48098 v -46.59819 l -22.517492,7.92768 c -1.79907,-8.18744 -9.05617,-14.28285 -17.79943,-14.28285 z M 8.5167928,210.91581 c -1.2379628,2.46444 -1.9502685,5.2426 -1.9502685,8.19846 v 24.88789 c 0,10.10394 8.1342157,18.23816 18.2381627,18.23816 h 42.686801 c 6.596128,0 12.331565,-3.47781 15.528251,-8.69817 z" />
+    <rect
+       style="fill:#c73838;fill-opacity:1;stroke:none;stroke-width:1.42711;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7-5-2"
+       width="105.17767"
+       height="7.4451866"
+       x="106.15826"
+       y="170.50957"
+       ry="3.7225933"
+       transform="matrix(0.86797611,0.49660596,-0.49580203,0.86843557,0,0)"
+       inkscape:export-filename="micOff_Icon.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
